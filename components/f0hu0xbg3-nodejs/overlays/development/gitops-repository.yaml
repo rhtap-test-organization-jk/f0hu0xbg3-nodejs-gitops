@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: f0hu0xbg3-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/f0hu0xbg3-nodejs-gitops
